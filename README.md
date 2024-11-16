@@ -1,6 +1,6 @@
 # CMSC204-Montgomery-College (Fall 2023)
 
-- Lab 1: \( \frac{100}{100} \)  
+- Lab 1: ![equation](https://latex.codecogs.com/svg.image?\frac{100}{100})
 - Lab 2: \( \frac{100}{100} \)  
 - Lab 3: \( \frac{100}{100} \)  
 - Lab 4: \( \frac{100}{100} \)  
